@@ -1,0 +1,31 @@
+{
+  "websites": 
+    [
+  
+    { 
+        "id":1,
+        "href": "https://remarkable-lokum-9776e4.netlify.app/",
+        "title": "To Do App",
+        "url": "projectsImages/jsToDoApp.png",
+        "use": "html, css, vanila javascript",
+        "type": "app"
+    },
+    { 
+      "id":2,
+      "href": "https://bitbucket.org/zaza223/magnifica_p/src/master/",
+      "title": "MAGNIFICA",
+      "url": "projectsImages/wallpaper.jpg",
+      "use": "xml, kotlin, firebase database",
+      "type": "app"
+  },
+  { 
+      "id":3,
+      "href": "https://github.com/zzaaz/Calculator-App",
+      "title": "Calculator",
+      "url": "projectsImages/calculator.webp",
+      "use": "xml, kotlin",
+      "type": "app"
+  }
+  ]
+}
+
